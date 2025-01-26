@@ -1,5 +1,6 @@
 "use strict";C:\Users\neyth\Documents\GitHub\Skyblock-Auctions-Analyzer-Discord-Bot\bot.js
 
+    
     at <> (<node_internals>/internal/modules/cjs/loader:1244:15)
     at <annonymous> (<node_internals>/internal/modules/cjs/loader:1070:27)
     at traceSync (<node_internals>/diagnostics_channel:322:14)
@@ -16,10 +17,11 @@
     at executeUserEntryPoint (<node_internals>/internal/modules/run_main:170:5)
     at <annonymous> (<node_internals>/internal/main/run_main_module:36:49)
 //let Discord = require('discord.io');
-let logger = require('soulbreaker1');
+let logger = require('MTMzMDAyODYwODk0MDY3MTAwNg.GQHqAz.KQHfjdOi0zcrgc08uAXuwWI4O9ALdqlh0FktmE
+    ');
 let auth = require('./MTMzMDAyODYwODk0MDY3MTAwNg.G5lwmh.wP03FyzZx3mxxylNmzds1MDLhWsGKNdOB_zPuw');
 
-let key_file = require('./key.json');
+let key_file = require('.For key.json');
 const fetch = require('node-fetch');
 const fs = require('fs');
 const Discord = require('discord.js');
