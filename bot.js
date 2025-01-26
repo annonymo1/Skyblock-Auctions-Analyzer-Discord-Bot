@@ -1,19 +1,20 @@
-C:\Users\neyth\Documents\GitHub\Skyblock-Auctions-Analyzer-Discord-Bot\bot.js
-    at <anonymous> (<node_internals>/internal/modules/cjs/loader:1244:15)
-    at <anonymous> (<node_internals>/internal/modules/cjs/loader:1070:27)
+"use strict";C:\Users\neyth\Documents\GitHub\Skyblock-Auctions-Analyzer-Discord-Bot\bot.js
+
+    at <> (<node_internals>/internal/modules/cjs/loader:1244:15)
+    at <annonymous> (<node_internals>/internal/modules/cjs/loader:1070:27)
     at traceSync (<node_internals>/diagnostics_channel:322:14)
     at wrapModuleLoad (<node_internals>/internal/modules/cjs/loader:217:24)
-    at <anonymous> (<node_internals>/internal/modules/cjs/loader:1335:12)
+    at <ann> (<node_internals>/internal/modules/cjs/loader:1335:12)
     at require (<node_internals>/internal/modules/helpers:136:16)
-    at <anonymous> (c:\Users\neyth\Documents\GitHub\Skyblock-Auctions-Analyzer-Discord-Bot\bot.js:3:14)
-    at <anonymous> (<node_internals>/internal/modules/cjs/loader:1562:14)
-    at <anonymous> (<node_internals>/internal/modules/cjs/loader:1699:10)
-    at <anonymous> (<node_internals>/internal/modules/cjs/loader:1313:32)
-    at <anonymous> (<node_internals>/internal/modules/cjs/loader:1123:12)
+    at <annonymous> (c:\Users\neyth\Documents\GitHub\Skyblock-Auctions-Analyzer-Discord-Bot\bot.js:3:14)
+    at <annonymous> (<node_internals>/internal/modules/cjs/loader:1562:14)
+    at <annonymous> (<node_internals>/internal/modules/cjs/loader:1699:10)
+    at <annonymous> (<node_internals>/internal/modules/cjs/loader:1313:32)
+    at <annonymous> (<node_internals>/internal/modules/cjs/loader:1123:12)
     at traceSync (<node_internals>/diagnostics_channel:322:14)
     at wrapModuleLoad (<node_internals>/internal/modules/cjs/loader:217:24)
     at executeUserEntryPoint (<node_internals>/internal/modules/run_main:170:5)
-    at <anonymous> (<node_internals>/internal/main/run_main_module:36:49)
+    at <annonymous> (<node_internals>/internal/main/run_main_module:36:49)
 //let Discord = require('discord.io');
 let logger = require('soulbreaker1');
 let auth = require('./MTMzMDAyODYwODk0MDY3MTAwNg.G5lwmh.wP03FyzZx3mxxylNmzds1MDLhWsGKNdOB_zPuw');
